@@ -1,0 +1,3 @@
+go help list
+
+go list -json
